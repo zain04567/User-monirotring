@@ -32,7 +32,7 @@ param (
 # ---------------------------------------------------------
 # Your SMTP credentials (app password, etc.)
 $Username = "zain@adnare.com"
-$Password = "bufuywiwoskyhcla"
+$Password = "zxzxzxzxa"
 
 # Temporary path for the screenshot (PNG)
 $timestamp = (Get-Date).ToString("yyyyMMdd_HHmmss")
