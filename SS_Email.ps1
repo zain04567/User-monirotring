@@ -31,8 +31,8 @@ param (
 # 1) Configuration: SMTP credentials + screenshot filename
 # ---------------------------------------------------------
 # Your SMTP credentials (app password, etc.)
-$Username = "zain@adnare.com"
-$Password = "zxzxzxzxa"
+$Username = "email"
+$Password = "pass"
 
 # Temporary path for the screenshot (PNG)
 $timestamp = (Get-Date).ToString("yyyyMMdd_HHmmss")
